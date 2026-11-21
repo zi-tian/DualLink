@@ -1,0 +1,18 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0",
+  "apk": "https://github.com/zi-tian/DualLink/releases/download/v1.0/DualLinkCtrl.apk",
+  "size": 53719,
+  "md5": "a554cf7d3667d0841b707ef622420998",
+  "notes": "v1.0：蓝牙/Wi-Fi 双通道控制，时钟、室温、闹钟、LED、蜂鸣器",
+  "force": false,
+  "minSdk": 21,
+  "fw": {
+    "version": "2.0",
+    "chip": "STC8H8K64U",
+    "file": "DualLink_v2.0.hex",
+    "url": "https://github.com/zi-tian/DualLink/releases/download/v1.0/DualLink_v2.0.hex",
+    "size": 41765,
+    "md5": "4b38529e5e8b83e8efd3e93897a9d247"
+  }
+}
